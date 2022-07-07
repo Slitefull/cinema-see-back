@@ -1,1 +1,1 @@
-# cource-backend
+# cinema-see backend

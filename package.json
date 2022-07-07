@@ -16,9 +16,9 @@
   "author": "Maksym Tytechko",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/smoltsbohdan/cource-backend/issues"
+    "url": "https://github.com/Slitefull/cinema-see-back/issues"
   },
-  "homepage": "https://github.com/smoltsbohdan/graphQL#readme",
+  "homepage": "https://github.com/Slitefull/graphQL#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.3",
