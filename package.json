@@ -4,6 +4,7 @@
   "description": "GraphQL Backend",
   "main": "index.js",
   "scripts": {
+    "start": "node server/app.js",
     "dev": "nodemon server/app.js"
   },
   "repository": {
